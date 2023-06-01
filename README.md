@@ -1,4 +1,6 @@
-# node.js-tutorial
+# node.js-tutorial**
+**User Authentication and Authorization Practice**
+
 **Description**:
 
 This project serves as a starting template for practicing user authentication and authorization techniques. It is intended for personal learning purposes only.
@@ -17,6 +19,7 @@ Basic user profile: Users have a basic profile that can be updated with addition
 **Technologies Used**:
 
 Backend: Node.js with Express framework.
+
 Database: MongoDB for storing user data.
 
 **Note**:
